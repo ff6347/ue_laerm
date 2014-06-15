@@ -252,19 +252,18 @@ public class PSUtil {
   }
 
   public void applyPaths(ArrayList<Particle> ptclsList,
-      boolean switchPath, ArrayList<Path> pathsList) {
+      boolean switchP, ArrayList<Path> pathsList) {
 
     for (int i = 0; i < ptclsList.size(); i++) {
       Particle ptcl = ptclsList.get(i);
       // if the particle is not part of a path
       if (ptcl.isHidden() != true) {
         // use the switchPath variable for random path selection
-        if (switchPath) {
-          ptcl.setPathNum(PApplet.floor(p
-              .random(0, this.numOfPaths)));// myPathNum;
+        if (switchP) {
+          ptcl.setPathNum(PApplet.floor(p.random(0, this.numOfPaths)));// myPathNum;
         }
         ptcl.applyForces(ptclsList, pathsList.get(ptcl.getPathNum()));
-        switchPath = false;
+//        switchP = false;
 
       }
       // Call the generic run method (update, borders, display, etc.)
