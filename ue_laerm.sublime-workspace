@@ -1,0 +1,2055 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"se",
+				"setup	setup OpenGL"
+			],
+			[
+				"P",
+				"Pinokio"
+			],
+			[
+				"geom_a",
+				"geom_area"
+			],
+			[
+				"json_",
+				"json_data"
+			],
+			[
+				"su",
+				"summary"
+			],
+			[
+				"fac",
+				"factor"
+			],
+			[
+				"stat",
+				"stat=\"identity"
+			],
+			[
+				"pars",
+				"parse_date_time"
+			],
+			[
+				"identi",
+				"identify"
+			],
+			[
+				"PUL",
+				"PULSEFREQ"
+			],
+			[
+				"map",
+				"mapped_pulse"
+			],
+			[
+				"HIGH",
+				"HIGHLOW"
+			],
+			[
+				"HI",
+				"HIGHLOW"
+			],
+			[
+				"C",
+				"COUNTER"
+			],
+			[
+				"ST",
+				"STEP"
+			],
+			[
+				"dat",
+				"dates"
+			],
+			[
+				"min",
+				"minmax"
+			],
+			[
+				"mint",
+				"minute"
+			],
+			[
+				"color",
+				"colours"
+			],
+			[
+				"re",
+				"require"
+			],
+			[
+				"colo",
+				"colour"
+			],
+			[
+				"col",
+				"colour"
+			],
+			[
+				"da",
+				"dates"
+			],
+			[
+				"geom",
+				"geom_line"
+			],
+			[
+				"visi",
+				"visits"
+			],
+			[
+				"foramt",
+				"format"
+			],
+			[
+				"v",
+				"visits"
+			],
+			[
+				"y",
+				"ylab=\"Actions"
+			],
+			[
+				"ggplo",
+				"ggplot"
+			],
+			[
+				"ggp",
+				"ggplot"
+			],
+			[
+				"sd",
+				"sdatavis"
+			],
+			[
+				"de",
+				"devtools"
+			],
+			[
+				"in",
+				"install"
+			],
+			[
+				"d",
+				"data"
+			],
+			[
+				"for",
+				"foreign"
+			],
+			[
+				"mi",
+				"minutes"
+			],
+			[
+				"ab",
+				"abline"
+			],
+			[
+				"ti",
+				"tick"
+			],
+			[
+				"LED",
+				"LEDRIGHT"
+			],
+			[
+				"LE",
+				"LEDLEFT"
+			],
+			[
+				"motor",
+				"motor_stop"
+			],
+			[
+				"doc",
+				"docstring"
+			],
+			[
+				"get",
+				"get_data"
+			],
+			[
+				"json",
+				"jsondecode"
+			],
+			[
+				"reu",
+				"return"
+			],
+			[
+				"str",
+				"strng"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"ex",
+				"except"
+			],
+			[
+				"labe",
+				"label_max_lat"
+			],
+			[
+				"lae",
+				"label_max_lon"
+			],
+			[
+				"ver",
+				"version"
+			],
+			[
+				"con",
+				"continue"
+			],
+			[
+				"dia",
+				"dialogRows"
+			],
+			[
+				"sta",
+				"staticLabel"
+			],
+			[
+				"new_",
+				"new_text_layer_name"
+			],
+			[
+				"use_",
+				"use_marker"
+			],
+			[
+				"text",
+				"text_key"
+			],
+			[
+				"temp_",
+				"temp_txt"
+			],
+			[
+				"dd_",
+				"dd_stringList"
+			],
+			[
+				"strin",
+				"stringList"
+			],
+			[
+				"dr",
+				"dropdown"
+			],
+			[
+				"dd",
+				"dd_stringList"
+			],
+			[
+				"geo",
+				"geodata"
+			],
+			[
+				"tem",
+				"temp_lng"
+			],
+			[
+				"ge",
+				"geometricBounds"
+			],
+			[
+				"cen",
+				"centerX"
+			],
+			[
+				"write",
+				"writeln"
+			],
+			[
+				"coo",
+				"coords"
+			],
+			[
+				"wri",
+				"writeln"
+			],
+			[
+				"max",
+				"max_lat"
+			],
+			[
+				"max_",
+				"max_lat"
+			],
+			[
+				"min_",
+				"min_lat"
+			],
+			[
+				"M",
+				"MeasurementUnits"
+			],
+			[
+				"new",
+				"newy"
+			],
+			[
+				"cente",
+				"centerY"
+			],
+			[
+				"cent",
+				"centerY"
+			],
+			[
+				"g",
+				"geometricBounds"
+			],
+			[
+				"DE",
+				"DEBUG"
+			],
+			[
+				"writ",
+				"writeln(\"w"
+			],
+			[
+				"setti",
+				"settings"
+			],
+			[
+				"Ex",
+				"ExtendScript"
+			],
+			[
+				"st",
+				"startpage"
+			],
+			[
+				"pa",
+				"parentPage"
+			],
+			[
+				"wir",
+				"writeln(\"w"
+			],
+			[
+				"le",
+				"length;i"
+			],
+			[
+				"conten",
+				"contents"
+			],
+			[
+				"one",
+				"onenote"
+			],
+			[
+				"wr",
+				"writeln(\"w"
+			],
+			[
+				"note",
+				"notes"
+			],
+			[
+				"foot",
+				"footnotes"
+			],
+			[
+				"curr",
+				"current_unit"
+			],
+			[
+				"ce",
+				"centerX"
+			],
+			[
+				"LOW",
+				"LOWER_RIGHT"
+			],
+			[
+				"UPP",
+				"UPPER_RIGHT"
+			],
+			[
+				"LO",
+				"LOWER_LEFT"
+			],
+			[
+				"U",
+				"UPPER_LEFT"
+			],
+			[
+				"m",
+				"mwidth"
+			],
+			[
+				"p",
+				"pItem"
+			],
+			[
+				"na",
+				"naive_getDims"
+			],
+			[
+				"else",
+				"else"
+			],
+			[
+				"loc",
+				"locations"
+			],
+			[
+				"pos",
+				"possible"
+			],
+			[
+				"poss",
+				"possible_lat_keys"
+			],
+			[
+				"fu",
+				"found_lat"
+			],
+			[
+				"po",
+				"possible_lat_keys"
+			],
+			[
+				"long",
+				"longitude"
+			],
+			[
+				"lon",
+				"longitude"
+			],
+			[
+				"lat",
+				"latitude"
+			],
+			[
+				"found",
+				"found_lon"
+			],
+			[
+				"has",
+				"hasOwnProperty"
+			],
+			[
+				"foun",
+				"found_lat"
+			],
+			[
+				"la",
+				"latitude_key"
+			],
+			[
+				"ob",
+				"objectStyles"
+			],
+			[
+				"obj",
+				"objectstyle"
+			],
+			[
+				"sel",
+				"selection"
+			],
+			[
+				"do",
+				"doc"
+			],
+			[
+				"select",
+				"selection"
+			],
+			[
+				"tes",
+				"textLines"
+			],
+			[
+				"wi",
+				"writeln"
+			],
+			[
+				"to",
+				"toSource"
+			],
+			[
+				"sepa",
+				"separator"
+			],
+			[
+				"co",
+				"copy"
+			],
+			[
+				"ale",
+				"alert"
+			],
+			[
+				"csv",
+				"csvfile"
+			],
+			[
+				"open",
+				"openDialog"
+			],
+			[
+				"boun",
+				"boundingBox"
+			],
+			[
+				"pr",
+				"projection"
+			],
+			[
+				"scr",
+				"script"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Debug.pde",
+			"settings":
+			{
+				"buffer_size": 7492,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Force.pde",
+			"settings":
+			{
+				"buffer_size": 3010,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "HowToMakepdeDoc.pde",
+			"settings":
+			{
+				"buffer_size": 2025,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Overlay.pde",
+			"settings":
+			{
+				"buffer_size": 1452,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Particle.pde",
+			"settings":
+			{
+				"buffer_size": 21896,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ParticleSystem.pde",
+			"settings":
+			{
+				"buffer_size": 14937,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Path.pde",
+			"settings":
+			{
+				"buffer_size": 6739,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Property.pde",
+			"settings":
+			{
+				"buffer_size": 3094,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "PSUtil.pde",
+			"settings":
+			{
+				"buffer_size": 6807,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Repeller.pde",
+			"settings":
+			{
+				"buffer_size": 6555,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Style.pde",
+			"settings":
+			{
+				"buffer_size": 5667,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "TNObstacleObject.pde",
+			"settings":
+			{
+				"buffer_size": 5902,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "TNTextThing.pde",
+			"settings":
+			{
+				"buffer_size": 409,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "XMLImporter.pde",
+			"settings":
+			{
+				"buffer_size": 9566,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Processing/Processing.sublime-build",
+	"command_palette":
+	{
+		"height": 370.0,
+		"selected_items":
+		[
+			[
+				"find",
+				"Find: In Project"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"read",
+				"ReadmePlease"
+			],
+			[
+				"mit",
+				"Snippet: MIT JSX License Code"
+			],
+			[
+				"gfm",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"gf",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"term",
+				"Open in terminal"
+			],
+			[
+				"mark",
+				"Open in Marked 2"
+			],
+			[
+				"sublim",
+				"Sublimall: Upload"
+			],
+			[
+				"upl",
+				"SFTP: Upload File"
+			],
+			[
+				"r",
+				"Set Syntax: R"
+			],
+			[
+				"repl",
+				"SublimeREPL: R"
+			],
+			[
+				"doc",
+				"Snippet: ftb enclose python docstring"
+			],
+			[
+				"key",
+				"Keymaps: Find a keymap for..."
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"qu",
+				"ChangeQuotes"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"sear",
+				"Search through the Internet"
+			],
+			[
+				"sea",
+				"Search through the Internet"
+			],
+			[
+				"readme",
+				"ReadmePlease"
+			],
+			[
+				"goo",
+				"Google Spell Check"
+			],
+			[
+				"swa",
+				"Convert Case: Swap Case"
+			],
+			[
+				"she",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"tick",
+				"Snippet: ftb enclose in ticks md"
+			],
+			[
+				"mar",
+				"Open in Marked 2"
+			],
+			[
+				"keym",
+				"Keymaps: Find a keymap for..."
+			],
+			[
+				"License",
+				"Snippet: MIT MD License Code"
+			],
+			[
+				"up",
+				"SFTP: Upload File"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"mini",
+				"Pretty JSON: Minify (compress) JSON"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"min",
+				"Pretty JSON: Minify (compress) JSON"
+			],
+			[
+				"js",
+				"Set Syntax: JSON"
+			],
+			[
+				"docs",
+				"Snippet: ftb enclose python docstring"
+			],
+			[
+				"uplo",
+				"SFTP: Upload File"
+			],
+			[
+				"prett",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"upla",
+				"SFTP: Upload File"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"mak",
+				"Open in Marked 2"
+			],
+			[
+				"ter",
+				"Text Pastry: Command Line"
+			],
+			[
+				"upload",
+				"SFTP: Upload File"
+			],
+			[
+				"linter",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"dire",
+				"dired"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"ticks",
+				"Snippet: ftb enclose in ticks md"
+			],
+			[
+				"bea",
+				"Javascript Beautify"
+			],
+			[
+				"lint",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"merge",
+				"Sublimerge: Compare to Revision..."
+			],
+			[
+				"MIT",
+				"Snippet: MIT MD License Code"
+			],
+			[
+				"termin",
+				"Open in terminal"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"marked",
+				"Open in Marked 2"
+			],
+			[
+				"pas",
+				"Text Pastry: From 1 To X"
+			],
+			[
+				"past",
+				"Text Pastry: From 0 To X"
+			],
+			[
+				"wtf",
+				"Snippet: wtfpl"
+			],
+			[
+				"tex",
+				"Text Pastry: From 0 To X"
+			],
+			[
+				"ext",
+				"Set Syntax: ExtendScript"
+			],
+			[
+				"csv",
+				"Set Syntax: CSV"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"be",
+				"Javascript Beautify"
+			],
+			[
+				"t",
+				"Text Pastry: Command Line"
+			],
+			[
+				"text",
+				"Text Pastry: From 1 To X"
+			],
+			[
+				"dot",
+				"Set Syntax: Graphviz (DOT)"
+			],
+			[
+				"pyg",
+				"Snippet: enclose for gollum / pygments syntax highlite bash"
+			],
+			[
+				"pygm",
+				"Snippet: enclose for gollum / pygments syntax highlite bash"
+			],
+			[
+				"goll",
+				"Snippet: enclose for gollum / pygments syntax highlite js"
+			],
+			[
+				"gollu",
+				"Snippet: enclose for gollum / pygments syntax highlite js"
+			],
+			[
+				"merg",
+				"Sublimerge: Compare to Revision..."
+			],
+			[
+				"diff",
+				"Modific: Show diff"
+			],
+			[
+				"gollum",
+				"Snippet: enclose for gollum / pygments syntax highlite js"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"py",
+				"SublimeREPL: Python"
+			],
+			[
+				"print",
+				"Print Selection"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"TIt",
+				"Convert Case: Title Case"
+			],
+			[
+				"case",
+				"Convert Case: Title Case"
+			],
+			[
+				"process",
+				"Set Syntax: Processing"
+			],
+			[
+				"shell",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"subl",
+				"Sublimall: Retrieve"
+			],
+			[
+				"mall",
+				"Sublimall: Retrieve"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"pla",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"repl ru",
+				"SublimeREPL: Ruby"
+			],
+			[
+				"ruby",
+				"SublimeREPL: Ruby"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"spaces",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"enclo",
+				"Snippet: enclose in anonymous function"
+			],
+			[
+				"exten",
+				"Set Syntax: ExtendScript"
+			],
+			[
+				"make",
+				"Open in Marked 2"
+			],
+			[
+				"GFM",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"export",
+				"Export to HTML: Show Export Menu"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"high",
+				"SublimeLinter: No Column Highlights Entire Line"
+			],
+			[
+				"sub",
+				"Sublimall: Upload"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"for",
+				"Format: Javascript"
+			],
+			[
+				"quo",
+				"ChangeQuotes"
+			],
+			[
+				"ma",
+				"Open in Marked 2"
+			],
+			[
+				"makr",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"marke",
+				"Open in Marked 2"
+			],
+			[
+				"browe",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"rea",
+				"ReadmePlease"
+			],
+			[
+				"build",
+				"Build: Build"
+			],
+			[
+				"pretty",
+				"HTMLPrettify"
+			],
+			[
+				"forma",
+				"Format: Javascript"
+			],
+			[
+				"form",
+				"Format: Javascript"
+			],
+			[
+				"pr",
+				"Print Entire File"
+			],
+			[
+				"lice",
+				"Snippet: MIT MD License Code"
+			],
+			[
+				"titl",
+				"Convert Case: Title Case"
+			],
+			[
+				"ardu",
+				"Set Syntax: Arduino"
+			],
+			[
+				"space",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"ard",
+				"Set Syntax: Arduino"
+			],
+			[
+				"Mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"reverse",
+				"Permute Lines: Reverse"
+			],
+			[
+				"sele",
+				"SublimeLinter: Enable Linter"
+			],
+			[
+				"plain",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"coff",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"coffe",
+				"Set Syntax: CoffeeScript (Literate)"
+			],
+			[
+				"c",
+				"Set Syntax: C"
+			]
+		],
+		"width": 615.0
+	},
+	"console":
+	{
+		"height": 225.0,
+		"history":
+		[
+			"view.runCommand('increment_selection')",
+			"create_java_accessors",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/icke/Documents/Processing/ue_laerm/TNTransformableObject.pde",
+		"/Users/icke/Documents/Processing/ue_laerm/TNTuioTransformableObject.pde",
+		"/Users/icke/Library/Application Support/Sublime Text 3/Packages/Processing/README.md",
+		"/var/folders/d3/562q82sj0679w3p59pqxk0yr0000gn/T/com.freron.MailMate/edit/69645/message.eml.markdown",
+		"/Users/icke/Desktop/IO-SoSe-2014/2014-SoSe-11EG-B-input-output/.git/MERGE_MSG",
+		"/Users/icke/Desktop/IO-SoSe-2014/2014-SoSe-11EG-B-input-output/.git/COMMIT_EDITMSG",
+		"/var/folders/d3/562q82sj0679w3p59pqxk0yr0000gn/T/com.freron.MailMate/edit/69258/message.eml 2.markdown",
+		"/var/folders/d3/562q82sj0679w3p59pqxk0yr0000gn/T/com.freron.MailMate/edit/69258/message.eml.markdown",
+		"/Users/icke/Documents/bonanza/db-model.txt",
+		"/Users/icke/Dropbox/fhp/Kurse/Grundlagen - Design of Physical and Virtual Interfaces SoSe 2014/incomPosts/physical-links-2014-06-06.md",
+		"/Users/icke/Documents/remote-controlled-car-hack/docs/things-you-need.md",
+		"/Users/icke/Desktop/IO-SoSe-2014/rcc-hack-fiddle/json-analysis/analyzer.R",
+		"/Users/icke/Desktop/IO-SoSe-2014/rcc-hack-fiddle/json-analysis/piwik-live-log.json",
+		"/Users/icke/Desktop/IO-SoSe-2014/rcc-hack-fiddle/json-analysis/analyzer-02.R",
+		"/Users/icke/Desktop/IO-SoSe-2014/rcc-hack-fiddle/json-analysis/piwik-live-log.csv",
+		"/Users/icke/Desktop/R-playground/openpaths.R",
+		"/Users/icke/Documents/remote-controlled-car-hack/pi/src/rcc-hack-controller.py",
+		"/Users/icke/Desktop/R-playground/deducer.r",
+		"/Users/icke/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/icke/Documents/remote-controlled-car-hack/README.md",
+		"/Users/icke/Documents/remote-controlled-car-hack/.git/COMMIT_EDITMSG",
+		"/Users/icke/Documents/remote-controlled-car-hack/pi/sftp-config.json",
+		"/Users/icke/Documents/remote-controlled-car-hack/arduino/rcc_hack_get_puls_aref/rcc_hack_get_puls_aref.ino",
+		"/Users/icke/Library/Application Support/Sublime Text 3/Packages/Keymaps/README.md",
+		"/Users/icke/.gitignore",
+		"/Users/icke/.ssh/config",
+		"/Users/icke/.Renviron",
+		"/Users/icke/Library/Application Support/Sublime Text 3/Packages/Internet Search/README.md",
+		"/Users/icke/Library/Application Support/Sublime Text 3/Packages/SublimeInternetSearch/SublimeInternetSearch.sublime-settings",
+		"/Users/icke/.zshrc",
+		"/Users/icke/Documents/rcc-hack/.git/COMMIT_EDITMSG",
+		"/Users/icke/Documents/rcc-hack/pi/src/rcc-hack-controller.py",
+		"/Users/icke/Desktop/IO-SoSe-2014/rcc-hack-fiddle/json-analysis/log.json",
+		"/Users/icke/Desktop/IO-SoSe-2014/rcc-hack-fiddle/real-time-api-request.txt",
+		"/Users/icke/Desktop/IO-SoSe-2014/2014-SoSe-11EG-B-input-output/examples/R/tobii-Eyetracker-R/eyetracker.R",
+		"/Users/icke/Desktop/IO-SoSe-2014/rcc-hack-fiddle/README.md",
+		"/Users/icke/Desktop/IO-SoSe-2014/rcc-hack-fiddle/.git/config",
+		"/Users/icke/Desktop/IO-SoSe-2014/rcc-hack-fiddle/.gitignore",
+		"/Users/icke/Desktop/IO-SoSe-2014/rcc-hack-fiddle/RC-Car-Hack-Abstract.md",
+		"/Users/icke/Desktop/IO-SoSe-2014/2014-SoSe-11EG-B-input-output/examples/processing/tobii_eyetracker_processing/README.md",
+		"/Users/icke/Documents/Processing/tobii_eyetracker_processing/tobii_eyetracker_processing_multiple/.gitignore",
+		"/Users/icke/Documents/Processing/tobii_eyetracker_processing/README.md",
+		"/Users/icke/Documents/Processing/tobii_eyetracker_processing/tobii_eyetracker_processing_animated/.gitignore",
+		"/Users/icke/Documents/tobii-1750-and-processing-peep-101/README.md",
+		"/Users/icke/Documents/tobii-1750-and-processing-peep-101/.git/COMMIT_EDITMSG",
+		"/Users/icke/Desktop/IO-SoSe-2014/rcc-hack-fiddle/rcc-hack-on-pi/src/blink.py",
+		"/Users/icke/Desktop/IO-SoSe-2014/rcc-hack-fiddle/rcc-hack-on-pi/src/schedule-test.py",
+		"/Users/icke/Desktop/IO-SoSe-2014/rcc-hack-fiddle/rcc-hack-on-pi/src/rcc-hack-controller.py",
+		"/Users/icke/Dropbox/fhp/interface.fh-potsdam.de - Server/StartersGuide/sftp-setup.md",
+		"/Users/icke/Desktop/IO-SoSe-2014/rcc-hack-main/rcc-hack-on-pi/src/rcc-hack-controller.py",
+		"/Users/icke/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/icke/Desktop/IO-SoSe-2014/rcc-hack-main/rcc-hack-on-pi/src/blink-continously.py",
+		"/Users/icke/Desktop/IO-SoSe-2014/rcc-hack-main/.git/COMMIT_EDITMSG",
+		"/Users/icke/Desktop/IO-SoSe-2014/rcc-hack-main/rcc-hack-on-pi/src/.pylintrc",
+		"/Users/icke/Desktop/IO-SoSe-2014/rcc-hack-main/rcc-hack-on-pi/src/blink.py",
+		"/Users/icke/Library/Application Support/Sublime Text 3/Packages/User/Python.sublime-settings",
+		"/Users/icke/Desktop/IO-SoSe-2014/rcc-hack-main/RC-Car-Hack-Abstract.md",
+		"/Users/icke/Desktop/IO-SoSe-2014/rc-hack/piwik-rcc-hack.sh",
+		"/Users/icke/Desktop/IO-SoSe-2014/rc-hack/piwik.sh",
+		"/Users/icke/Documents/extendscript.tilemill/src/tilemill/dialog.jsx",
+		"/Users/icke/Documents/extendscript.tilemill/package.json",
+		"/Users/icke/Desktop/maps/note.txt",
+		"/Users/icke/Documents/fhp/FH-Potsdam.extendscript.tilemill/.git/MERGE_MSG",
+		"/Users/icke/Documents/Processing/tobii_eyetracker_processing/data/tobii-CSVExport-All-Data-noheader-nofilter.tsv",
+		"/Users/icke/Documents/extendscript.tilemill/src/tilemill/main.jsx",
+		"/Users/icke/Desktop/IO-SoSe-2014/RC-Car-Hack-Abstract.md",
+		"/Users/icke/Documents/extendscript.tilemill/test-data/somecities.csv",
+		"/Users/icke/Documents/extendscript.tilemill/src/tilemill/geo.jsx",
+		"/Users/icke/Documents/extendscript.tilemill/README.md",
+		"/Users/icke/Documents/extendscript.tilemill/Gruntfile.js",
+		"/Users/icke/Desktop/RC-Car-Hack-Abstract.md",
+		"/Users/icke/Documents/extendscript.tilemill/src/tilemill/marker.jsx",
+		"/Users/icke/Documents/extendscript.tilemill/src/tilemill/document.jsx",
+		"/Users/icke/Documents/extendscript.tilemill/src/tilemill/util.jsx",
+		"/Users/icke/Documents/extendscript.tilemill/src/tilemill/importer.jsx",
+		"/Users/icke/Documents/extendscript.tilemill/src/lib/extendscript.csv/dist/extendscript.csv.jsx",
+		"/Users/icke/Documents/extendscript.tilemill/src/lib/extendscript.csv/src/CSV.jsx",
+		"/Users/icke/Documents/extendscript.tilemill/.git/COMMIT_EDITMSG",
+		"/Users/icke/Documents/extendscript.tilemill/src/tilemill/console.jsx",
+		"/Users/icke/Documents/extendscript.tilemill/src/tilemill/globals.jsx",
+		"/Users/icke/Documents/extendscript.tilemill/dist/extendscript.tilemill.0.2.0.jsx",
+		"/Users/icke/Documents/extendscript.tilemill/test-data/img_-24.082_33.1376_35.6836_62.2679.txt",
+		"/Applications/Adobe InDesign CC/Scripts/Scripts Panel/CleanupPasteboard.js",
+		"/Users/icke/Documents/extendscript.tilemill/src/tilemill/deprectated/dialog.jsx",
+		"/Users/icke/Documents/extendscript.tilemill/misc/sebastian-meier/mapping-over-equator/mapping.html",
+		"/Users/icke/Documents/fhp/nonlinear-narrative-framework/docs/general/synopsis.md",
+		"/Applications/Adobe InDesign CS6/Scripts/Scripts Panel/fg-scripts/README.md",
+		"/Users/icke/Desktop/Lennart Baramsky- RE.txt",
+		"/Applications/Adobe InDesign CS6/Scripts/Scripts Panel/fg-scripts/ds-dumb-run-pages.jsx",
+		"/Users/icke/Desktop/IO-SoSe-2014/io-sose-14-playground/tic-tac-toe/tic-tac-toe.txt",
+		"/Users/icke/Desktop/maps/sm-mapping-over-equator/mapping.html",
+		"/Users/icke/Desktop/IO-SoSe-2014/io-sose-14-playground/README.md",
+		"/Users/icke/Desktop/test.md",
+		"/Users/icke/Desktop/IO-SoSe-2014/io-sose-14-playground/blablub.txt",
+		"/Users/icke/Documents/extendscript.tilemill/misc/sebastian-meier/mapping.html",
+		"/Users/icke/Documents/extendscript.tilemill/dist/extendscript.tilemill.0.1.0.jsx",
+		"/Users/icke/Documents/extendscript.tilemill/src/tilemill/license.jsx",
+		"/Users/icke/Documents/extendscript.tilemill/src/tilemill/MercatorMap.jsx",
+		"/Applications/Adobe InDesign CC/Scripts/Scripts Panel/extendscript-101/README.md",
+		"/Users/icke/Desktop/ExtendScript-Crashcourse-Nachbereitung.md",
+		"/Users/icke/Documents/IDMap/dist/IDMap.0.2.0.jsx",
+		"/Users/icke/Documents/IDLocations/dist/IDLocations.0.1.0.jsx",
+		"/Applications/Adobe InDesign CC/Scripts/Scripts Panel/extendscript-101/03/text.jsx",
+		"/Applications/Adobe InDesign CC/Scripts/Scripts Panel/extendscript-101/02/graphiclines.jsx",
+		"/Applications/Adobe InDesign CC/Scripts/Scripts Panel/extendscript-101/01/polygons-rectangles-ovals.jsx",
+		"/Users/icke/Downloads/README.md",
+		"/Users/icke/Desktop/io-sose-14-playground/note.txt",
+		"/Users/icke/Desktop/tobii-Eyetracker-R/eyetracker.R",
+		"/Users/icke/Desktop/tobii-Eyetracker-R/README.md",
+		"/Users/icke/Desktop/tobii-Eyetracker-R/.git/config",
+		"/Users/icke/Documents/Processing/tobii_eyetracker_processing/.git/config",
+		"/Users/icke/Desktop/tobii-Eyetracker-R/.git/COMMIT_EDITMSG",
+		"/Users/icke/Dropbox/fritz-groegel/scripts/dumb-run-pages-edit.jsx",
+		"/Users/icke/Dropbox/fritz-groegel/scripts/extract_notes.jsx",
+		"/Applications/Adobe InDesign CS6/Scripts/Scripts Panel/foot_to_end_dynamic.jsx",
+		"/Users/icke/Desktop/untitled.html",
+		"/Users/icke/Documents/extendscript.tilemill/test-data/simple-bbox.csv",
+		"/Users/icke/Slogger/plugins/foursquarelogger.rb",
+		"/Users/icke/Slogger/plugins/flickrlogger.rb",
+		"/Users/icke/Slogger/plugins/twitterlogger.rb",
+		"/Users/icke/Slogger/plugins/things.rb",
+		"/Users/icke/Slogger/plugins/pinboardlogger.rb",
+		"/Users/icke/Slogger/plugins/githubcommitlogger.rb",
+		"/Users/icke/Slogger/plugins/githublogger.rb",
+		"/Users/icke/Slogger/plugins/gistlogger.rb",
+		"/Users/icke/Slogger/slogger_config",
+		"/Users/icke/Desktop/IO-SoSe-2014/2014-SoSe-11EG-B-input-output/.gitignore",
+		"/Users/icke/Documents/R-maps/README.md"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<open files>,<open folders>",
+			"/Users/icke/Documents/AEMap/src",
+			"/Users/icke/Documents/AEMap"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"p.",
+			"//",
+			"- -",
+			" [ ]",
+			"visits",
+			"PULSEFREQ",
+			"    GPIO.",
+			"Pulse",
+			"PULSE",
+			"Pulse",
+			"pulse",
+			"dates",
+			"Actions",
+			"ln",
+			"Actions",
+			"pink",
+			"#",
+			"W036",
+			"-msgs",
+			"global",
+			"valueScaled",
+			"rightSpan",
+			"leftSpan",
+			"leftMax",
+			"dates",
+			"actions",
+			".",
+			"frame",
+			"data",
+			"R/",
+			"')",
+			"http://demo.piwik.org/index.php?module=API&method=Live.getCounters&idSite=7&lastMinutes=1&format=xml&token_auth=anonymous",
+			"#http://demo.piwik.org/index.php?module=API&method=Live.getCounters&idSite=7&lastMinutes=1&format=xml&token_auth=anonymous",
+			"- ",
+			"5",
+			"var",
+			"$and",
+			"select",
+			"\\",
+			"}{",
+			"set_motor_backwd",
+			"set_motor_ffwd",
+			"set_backwd",
+			"set_ffwd",
+			"[tobii",
+			"tobii",
+			"-",
+			"2.x",
+			"-",
+			"count",
+			"led",
+			"LEDPIN",
+			"i",
+			"inbox",
+			"USERNAME",
+			"mhoinkis",
+			"   \\d\\d",
+			"1",
+			"count",
+			"ledpin",
+			"gpio_loaded",
+			"GPIO_loaded",
+			"lon",
+			"lat",
+			"xy",
+			"three",
+			"one",
+			"d_col_one",
+			"msg",
+			"json",
+			"new_marker_layer_name",
+			" mlayer",
+			" layer",
+			"layer",
+			"new_layer_name",
+			"debug_tf",
+			"rawdata.toSource()",
+			"latlng",
+			"name",
+			"tenp_lon",
+			"arr",
+			"geodata",
+			"geo_to_page_coords",
+			"centerX",
+			"zero_y",
+			"y",
+			"2",
+			"]",
+			"coordinates",
+			"max",
+			"min",
+			"set_bbox",
+			"90",
+			"180",
+			"minimumValue",
+			"smallNudge:0.1,",
+			"lon",
+			"min",
+			"lon",
+			"min",
+			"geo_to_page_coords",
+			"settings",
+			"min",
+			"set_bbox",
+			"ToWebMercator",
+			"min",
+			"place_markers",
+			"set_bbox",
+			"ToWebMercator",
+			"doc",
+			"temp_doc",
+			"setup_doc",
+			"+\"px\"",
+			"geo_to_page_coords",
+			"geodata_to_indesign_coords",
+			"geojson_analyzer",
+			"centerY",
+			"geo_to_page_coords",
+			"geodata_to_indesign_coords",
+			"geojson_analyzer",
+			"geo_to_page_coords",
+			"geodata_to_indesign_coords",
+			"settings",
+			"geo_to_page_coords",
+			"geodata_to_indesign_coords",
+			"ToGeographic",
+			"geo_to_page_coords",
+			"geodata_to_indesign_coords"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"},{",
+			"   ",
+			"",
+			"$3, $2,$4",
+			"Geo",
+			" AEMAP.Utilities.createCustomRGBColor",
+			" AEMAP.Utilities.createCustomHSLColor",
+			" AEMAP.Utilities.CustomHSLColorObject",
+			" AEMAP.Utilities.CustomRGBColorObject",
+			"AEMAP.Utilities.CustomRGBColorObject",
+			"AEMAP.Utilities.resetValIfNAN",
+			"AEMAP.Utilities.constrainAndParseTextToInteger",
+			"AEMAP.Utilities.constrainAndParseColorValue",
+			"{$1},",
+			"[$1],",
+			", url: '$1'",
+			"description: '$1'",
+			"##$2\\n$1$2$3$4",
+			"![$1]($1)  ",
+			"[$1]($1) ",
+			"",
+			"$1\\t$2",
+			"if(@selection == $1)",
+			"$1[ ] "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 12,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Debug.pde",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7492,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "UTF-8",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Processing/Syntax/Processing.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Force.pde",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3010,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "UTF-8",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Processing/Syntax/Processing.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "HowToMakepdeDoc.pde",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2025,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15,
+								15
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "UTF-8",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Processing/Syntax/Processing.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Overlay.pde",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1452,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "UTF-8",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Processing/Syntax/Processing.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "Particle.pde",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 21896,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "UTF-8",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Processing/Syntax/Processing.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "ParticleSystem.pde",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14937,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "UTF-8",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Processing/Syntax/Processing.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "Path.pde",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6739,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "UTF-8",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Processing/Syntax/Processing.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "Property.pde",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3094,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "UTF-8",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Processing/Syntax/Processing.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "PSUtil.pde",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6807,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "UTF-8",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Processing/Syntax/Processing.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "Repeller.pde",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6555,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "UTF-8",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Processing/Syntax/Processing.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "Style.pde",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5667,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "UTF-8",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Processing/Syntax/Processing.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "TNObstacleObject.pde",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5902,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "UTF-8",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Processing/Syntax/Processing.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "TNTextThing.pde",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 409,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "ISO-8859-1",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Processing/Syntax/Processing.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "XMLImporter.pde",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9566,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								232,
+								232
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "UTF-8",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Processing/Syntax/Processing.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1062.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Blink_with_serial":
+	{
+		"height": 112.0
+	},
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.rc-car-controller-01":
+	{
+		"height": 112.0
+	},
+	"output.sftp":
+	{
+		"height": 146.0
+	},
+	"project": "ue_laerm.sublime-project",
+	"replace":
+	{
+		"height": 76.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 186.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
