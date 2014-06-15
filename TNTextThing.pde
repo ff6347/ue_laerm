@@ -17,7 +17,7 @@ public class TNTextThing extends TNTuioTransformableObject {
 
 		p.fill(0);
 		p.textSize(70);
-		p.text("LŠrm & Krawall", 0, 60);
+		p.text("LÅ rm & Krawall", 0, 60);
 	}
 
 }
